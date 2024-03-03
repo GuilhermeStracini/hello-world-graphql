@@ -1,4 +1,7 @@
-# hello-world-graphql
+# Hello World GraphQL
+
 📚 A repository to learn GraphQL
 
-https://levelup.gitconnected.com/how-to-implement-graphql-in-net-core-using-c-2c945cd5c338
+## Useful links
+
+- https://levelup.gitconnected.com/how-to-implement-graphql-in-net-core-using-c-2c945cd5c338
