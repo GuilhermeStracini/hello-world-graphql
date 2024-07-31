@@ -12,4 +12,5 @@
 
 ## Useful links
 
-- https://levelup.gitconnected.com/how-to-implement-graphql-in-net-core-using-c-2c945cd5c338
+- [How to Implement GraphQL in .NET Core Using C#](https://levelup.gitconnected.com/how-to-implement-graphql-in-net-core-using-c-2c945cd5c338)
+- [Implementing GraphQL in .NET Core](https://medium.com/@paulotorres/implementing-graphql-in-net-core-4fb2b0ca6e02)
